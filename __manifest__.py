@@ -16,4 +16,12 @@
     'auto_install': False,
     'application': False,
     'license': 'OPL-1',
+    'assets': {
+        'web.assets_backend': [
+            # for css, scss, js in static/src/...
+		],
+		'web.assets_qweb': [
+            # for xml in static/src/...
+		]
+    }
 }
