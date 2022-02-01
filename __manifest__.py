@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 {
     'name': 'MODULE_NAME',
     'version': '1.0.0',
